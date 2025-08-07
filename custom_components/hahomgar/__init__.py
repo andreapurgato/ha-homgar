@@ -9,7 +9,7 @@ from homeassistant.helpers.typing import ConfigType
 from homeassistant.const import ATTR_NAME
 
 # The domain of the integration. This must match the folder name.
-DOMAIN = "ha-homgar"
+DOMAIN = "hahomgar"
 
 # Get the logger for this component, which will show up in the Home Assistant logs.
 _LOGGER = logging.getLogger(__name__)

@@ -1,8 +1,8 @@
 {
-  "domain": "ha-homgar",
+  "domain": "hahomgar",
   "name": "HA HomGar",
   "version": "1.0.0",
-  "documentation": "https://github.com/andreapurgato/ha-homgar/blob/main/README.md",
+  "documentation": "https://github.com/andreapurgato/ha-homgar",
   "dependencies": [],
   "codeowners": [
     "@andreapurgato"

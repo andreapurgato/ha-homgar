@@ -1,0 +1,11 @@
+{
+  "domain": "ha-homgar",
+  "name": "HA HomGar",
+  "documentation": "https://www.home-assistant.io/integrations/my_first_integration",
+  "dependencies": [],
+  "codeowners": [
+    "@your_github_username"
+  ],
+  "requirements": [],
+  "version": "0.1"
+}

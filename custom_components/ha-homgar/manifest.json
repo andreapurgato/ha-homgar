@@ -4,7 +4,7 @@
   "documentation": "https://www.home-assistant.io/integrations/my_first_integration",
   "dependencies": [],
   "codeowners": [
-    "@your_github_username"
+    "@andreapurgato"
   ],
   "requirements": [],
   "version": "0.1"
